@@ -1,4 +1,6 @@
-# Pretty Bugs
+# Pretty Bugs 
+
+🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨🐛✨
 
 This is a collection of students' projects, showcasing their work in progress (bugs, artifacts, and anything that is scrappy and unfinished). 
 
@@ -11,5 +13,4 @@ Here is what I think happens when you turn the light on while acquiring an image
 :maxdepth: 2
 :caption: Sections
 
-subfolder/index
 ```

@@ -81,7 +81,7 @@ exclude_patterns = [
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
-html_title = 'Pretty Bugs'
+html_title = 'Pretty Bugs 🐛✨'
 # Redirect the webpage to another URL
 # Sphinx will create the appropriate CNAME file in the build directory
 # https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
