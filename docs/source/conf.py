@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Your Project Name'
-copyright = '2022, Neuroinformatics Unit'
-author = 'Neuroinformatics Unit'
+project = 'Students Showoff'
+copyright = '2025, Neuroinformatics Unit'
+author = 'Neuroinformatics Unit + OSW 2025 Students'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
@@ -81,8 +81,7 @@ exclude_patterns = [
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
-html_title = 'Your Project Name'
-
+html_title = 'Students Showoff'
 # Redirect the webpage to another URL
 # Sphinx will create the appropriate CNAME file in the build directory
 # https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
@@ -114,7 +113,7 @@ html_theme_options = {
         }
    ],
    "logo": {
-        "text": "Your Project Name",
+        "text": "Students Showoff",
         "image_light": "logo_light.png",
         "image_dark": "logo_dark.png",
     },
