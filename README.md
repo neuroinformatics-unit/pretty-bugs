@@ -1,4 +1,4 @@
-# Students' showoff website
+# Pretty Bugs
 
 This is a collection of students' projects, showcasing their work in progress (bugs, artifacts, and anything that is scrappy and unfinished).
 
@@ -9,17 +9,17 @@ Follow these steps to add your screenshots to the showoff website:
 1. **Clone the fork**
    ```bash
    git clone <your-fork-url>
-   cd students-showoff
+   cd pretty-bugs
    ```
 
 2. **Change the main documentation file**
-   Edit `students-showoff/docs/source/index.md`
+   Edit `pretty-bugs/docs/source/index.md`
 
 3. **Write a description of your image**
    Add a section describing what your screenshot shows
 
 4. **Add your image**
-   Place your image file in `students-showoff/docs/source/_static/`
+   Place your image file in `pretty-bugs/docs/source/_static/`
 
 5. **Link the image in the documentation**
    Add the image to `index.md` using this syntax:

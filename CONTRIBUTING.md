@@ -17,7 +17,7 @@ To add entries to an existing sub-section, simply add new level-2/3 headings to 
 * Push the `new_branch` to GitHub and create a pull request. This will automatically trigger a [GitHub Action](https://github.com/ammaraskar/sphinx-action) that checks if the website still builds correctly.
 * If the checks pass, assign someone to review your changes. 
 * When the reviewer merges your changes into the `main` branch, a different [GitHub Action](https://github.com/peaceiris/actions-gh-pages) will be triggered, which will build the website and publish it to the `gh-pages` branch.
-* The updated website should be available at [howto.neuroinformatics.dev](https://howto.neuroinformatics.dev)
+* The updated website should be available at [neuroinformatics-unit.github.io/pretty-bugs](https://neuroinformatics-unit.github.io/pretty-bugs)
 
 > **note**
 > If you wish to view the website locally, before you push it, you can do so by running the following commands from the root of the repository.

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Students Showoff'
+project = 'Pretty Bugs'
 copyright = '2025, Neuroinformatics Unit'
 author = 'Neuroinformatics Unit + OSW 2025 Students'
 
@@ -81,11 +81,11 @@ exclude_patterns = [
 # a list of builtin themes.
 #
 html_theme = 'pydata_sphinx_theme'
-html_title = 'Students Showoff'
+html_title = 'Pretty Bugs'
 # Redirect the webpage to another URL
 # Sphinx will create the appropriate CNAME file in the build directory
 # https://www.sphinx-doc.org/en/master/usage/extensions/githubpages.html
-html_baseurl = 'TODO: add your URL here'
+html_baseurl = 'https://neuroinformatics-unit.github.io/pretty-bugs/'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -113,7 +113,7 @@ html_theme_options = {
         }
    ],
    "logo": {
-        "text": "Students Showoff",
+        "text": "Pretty Bugs",
         "image_light": "logo_light.png",
         "image_dark": "logo_dark.png",
     },

@@ -1,4 +1,4 @@
-# Students' showoff website
+# Pretty Bugs
 
 This is a collection of students' projects, showcasing their work in progress (bugs, artifacts, and anything that is scrappy and unfinished). 
 
