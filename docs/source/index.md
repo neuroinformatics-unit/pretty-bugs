@@ -14,3 +14,14 @@ Here is what I think happens when you turn the light on while acquiring an image
 :caption: Sections
 
 ```
+
+## Jonathan
+AAAAAAAA
+
+![Jonathan's albatross picture](_static/Two_Chickens.PNG)
+
+```{toctree}
+:maxdepth: 2
+:caption: Sections
+
+```
