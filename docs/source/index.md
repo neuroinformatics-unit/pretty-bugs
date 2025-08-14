@@ -18,7 +18,7 @@ Here is what I think happens when you turn the light on while acquiring an image
 ## Jonathan
 AAAAAAAA
 
-![Jonathan's albatross picture](_static/Two_Chickens.PNG)
+![Two chickens](_static/Two_Chickens.PNG)
 
 ```{toctree}
 :maxdepth: 2
