@@ -14,3 +14,8 @@ Here is what I think happens when you turn the light on while acquiring an image
 :caption: Sections
 
 ```
+
+## Tom
+Here is a pretty bug
+
+![A pretty bug](_static/pretty-bug.png)
