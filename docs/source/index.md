@@ -9,6 +9,8 @@ Here is what I think happens when you turn the light on while acquiring an image
 
 ![Laura's imaging artifact](_static/laura_imaging_artifact.png)
 
+![alt text](bugg.jpg)
+
 ```{toctree}
 :maxdepth: 2
 :caption: Sections
