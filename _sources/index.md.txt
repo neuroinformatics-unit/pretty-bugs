@@ -32,3 +32,14 @@ Here is a pretty bug
 :maxdepth: 2
 :caption: Sections
 ```
+
+## Jonathan
+AAAAAAAA
+
+![Two chickens](_static/Two_Chickens.PNG)
+
+```{toctree}
+:maxdepth: 2
+:caption: Sections
+
+```
