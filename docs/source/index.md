@@ -7,7 +7,7 @@ This is a collection of students' projects, showcasing their work in progress (b
 ## Pille
 Not a bug, a worm!
 
-![A worm among bugs](_static/worm.tif)
+![A worm among bugs](_static/worm.jpg)
 
 ## Laura
 Here is what I think happens when you turn the light on while acquiring an image:
